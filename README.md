@@ -1,5 +1,23 @@
 # Empowering Insight: Mastering Data Analysis & Machine Learning with Python
 
+---
+# 🤖 Machine Learning & Data Analysis - Instructor Portfolio
+
+This repository contains the workshop materials, coding labs, and projects I delivered as a **Data Science Instructor** for the **MIT Emerging Talent** program.
+
+### 🎯 Scope & Context
+These materials cover the practical application of Machine Learning algorithms using Python.
+* **Role:** Lead Instructor & Curriculum Developer
+* **Tech Stack:** Python, Scikit-Learn, Pandas, NumPy, Matplotlib.
+* **Key Topics:** Regression Analysis, Classification Models, Clustering, and Model Evaluation metrics.
+
+### ⚠️ Instructor Note
+This branch serves as my teaching portfolio. It includes:
+1.  **Guided Labs:** Step-by-step notebooks I created to teach core ML concepts.
+2.  **Solutions:** Reference implementations for student assignments.
+
+---
+
 Welcome to our ML workshop! This series is designed to give you **hands-on experience** with data analysis and machine learning using Python. You'll explore real datasets, write code in live sessions, and build models that reflect real-world problems.
 
 ---
